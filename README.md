@@ -1,4 +1,4 @@
-# Gauge Sweep via CAN Bus (Arduino + CAN.h)
+# CAN Bus E9X Diesel (Arduino + CAN.h)
 
 This Arduino sketch performs a **gauge sweep** (full-scale needle movement) via CAN bus when vehicle ignition is turned on. It is intended for vehicles where Arduino is powered through a **12V cigarette lighter**, so the sweep is triggered automatically at ignition.
 
